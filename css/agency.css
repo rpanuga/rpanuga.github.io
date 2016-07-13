@@ -101,8 +101,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-xl {
   color: white;
-  background-color: #e7d87d;
-  border-color: #e7d87d;
+  background-color: #dd9f40;
+  border-color: #dd9f40;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -139,8 +139,8 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  background-color:  	#dd9f40;
-  border-color:  	#dd9f40;
+  background-color:  	#b4451f;
+  border-color:  	#b4451f;
 }
 .btn-xl .badge {
   color: #b4451f;
@@ -173,7 +173,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #b4451f;
+  background-color: #dd9f40;
 }
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -190,7 +190,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background-color: #fed136;
+  background-color: #b4451f;
 }
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  /*background-image: url('../img/header-bg.jpg');*/
+  background-image: url('../img/header-bg.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -693,7 +693,7 @@ ul.social-buttons li a:active {
   cursor: pointer;
 }
 .portfolio-modal .close-modal:hover {
-  opacity: 0.3;
+  opacity: 0.5;
 }
 .portfolio-modal .close-modal .lr {
   height: 75px;
